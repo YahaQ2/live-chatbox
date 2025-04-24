@@ -60,7 +60,7 @@ const Chat = ({ user }) => {
             value={input}
             onChange={(e) => setInput(e.target.value)}
           />
-          <button>&rarr;</button>
+          <button>rarr;</button>
         </form>
       </div>
     </div>
